@@ -7,7 +7,7 @@
 <h4>Game End - other menus too</h4>
 <img src = "oregontrailgamepreview2.gif">
 <hr>
-<h4>As the game doesn't run well in browser, its better to downlaod the file: "Team A's Interface - Claude Test - V13 - Long code.py
+<h4>As the game doesn't run well in browser, its better to download the file: "Team A's Interface - Claude Test - V13 - Long code.py
 " to play the game.</h4>
 <br>
 <h4>Link to website:</h4>

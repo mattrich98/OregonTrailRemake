@@ -2,7 +2,7 @@
 <h2>OregonTrailRemake</h2>
 <h4>During the software development bootcamp, our group practiced used AI prompt tools to make an Oregon Trail remake with python.</h4>
 <hr>
-<h4>Although maybe I'd want to finish this game, it would take away from the fact that it is a group effort so, maybe I'll make 'The Oregon Trail' in javascript in the future.</h4>
+<h4>Although maybe I'd want to finish this game, it would take away from the fact that it is a group effort. Perhaps I'll make 'The Oregon Trail' in javascript or python in the future.</h4>
 <hr>
 <h4>Game Start - Gameplay</h4>
 <img src = "oregontrailgamepreview.gif">
